@@ -1,0 +1,9 @@
+{
+  "label": "Getting Started with AEMLib",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "title": "Getting Started with AEMLib",
+    "description": "Guides for working inside this codebase. Each one takes a task the team does every season and walks through it end to end."
+  }
+}

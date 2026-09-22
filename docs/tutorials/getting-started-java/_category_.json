@@ -1,0 +1,9 @@
+{
+  "label": "Getting Started with Java",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "title": "Getting Started with Java",
+    "description": "The parts of Java that show up in robot code. No prior programming experience is assumed. Each page ends with where to look in the repo to see the idea in use."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "label": "Tutorials",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "title": "Tutorials",
+    "description": "Step by step guides for common tasks. Each one assumes a working checkout of the repo and a copy of WPILib installed."
+  }
+}

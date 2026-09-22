@@ -1,0 +1,9 @@
+{
+  "label": "Reference",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "title": "Reference",
+    "description": "Each page covers one class or group of classes from com.aembot.lib. Pages list every configurable field, its default, and what it is used for."
+  }
+}

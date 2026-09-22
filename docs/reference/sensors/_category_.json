@@ -1,0 +1,9 @@
+{
+  "label": "Sensors",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "title": "Sensors",
+    "description": "Sensor wrappers under com.aembot.lib.core.sensors and their configuration classes."
+  }
+}

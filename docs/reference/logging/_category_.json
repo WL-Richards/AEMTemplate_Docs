@@ -1,0 +1,9 @@
+{
+  "label": "Logging",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "title": "Logging",
+    "description": "The classes under com.aembot.lib.core.logging that set up AdvantageKit and throttle output logging, plus the runtime constants they depend on."
+  }
+}

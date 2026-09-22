@@ -1,0 +1,9 @@
+{
+  "label": "Configuration",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "title": "Configuration",
+    "description": "Builder classes under com.aembot.lib.config. These describe hardware and are passed into subsystems and IO layers at construction time."
+  }
+}

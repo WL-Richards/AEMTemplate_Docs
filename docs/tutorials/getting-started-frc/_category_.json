@@ -1,0 +1,9 @@
+{
+  "label": "Getting Started with FRC",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "title": "Getting Started with FRC",
+    "description": "The WPILib concepts the codebase is built on. These pages do not cover the library itself, only the ideas it assumes you already know."
+  }
+}

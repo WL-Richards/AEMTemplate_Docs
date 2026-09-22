@@ -1,0 +1,9 @@
+{
+  "label": "Robot State",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "title": "Robot State",
+    "description": "The thread safe state model under com.aembot.lib.state that subsystems write to and commands read from."
+  }
+}

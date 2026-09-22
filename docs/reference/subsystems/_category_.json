@@ -1,0 +1,9 @@
+{
+  "label": "Subsystems",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "title": "Subsystems",
+    "description": "Base classes under com.aembot.lib.subsystems that mechanisms extend, and the premade subsystems built on them."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "label": "Core",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "title": "Core",
+    "description": "The hardware layer under com.aembot.lib.core. CAN device identity, motor controller factories, the MotorIO abstraction and its implementations, and the CTRE helpers everything else is built on."
+  }
+}
